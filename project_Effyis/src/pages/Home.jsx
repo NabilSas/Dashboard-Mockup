@@ -10,7 +10,7 @@ const Home = () => {
   }, [navigate]);
 
   return (
-    <div className="dhiwise-navigation">
+    <div className="navigation">
       {/* This Link is optional, as the redirection happens automatically */}
       {/* <li>
         <Link to="/mockupdashboard">MockupDashboard</Link>
